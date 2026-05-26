@@ -1,0 +1,100 @@
+Date,Time,Description,Amount,Category
+2026-01-05,10:15,Grocery Store,-850,Groceries
+2026-01-07,16:45,Gas Station,-1200,Transport
+2026-01-10,20:05,Netflix Subscription,-250,Entertainment
+2026-01-12,11:30,Supermarket,-620,Groceries
+2026-01-15,09:00,Monthly Salary,45000,Income
+2026-01-18,22:15,Uber Ride,-320,Transport
+2026-01-20,14:20,Pharmacy,-450,Health
+2026-01-22,15:50,Electronics Store,-2500,Shopping
+2026-01-25,19:30,Local Restaurant,-800,Dining
+2026-01-28,10:05,Phone Bill,-600,Utilities
+2026-02-02,09:45,Grocery Store,-950,Groceries
+2026-02-05,17:20,Bolt Ride,-280,Transport
+2026-02-10,18:40,Cinema,-400,Entertainment
+2026-02-12,12:10,Supermarket,-700,Groceries
+2026-02-15,08:30,Monthly Salary,45000,Income
+2026-02-18,09:15,Electricity Bill,-1500,Utilities
+2026-02-20,16:50,Gym Membership,-800,Health
+2026-02-22,14:20,Furniture Store,-3200,Shopping
+2026-02-25,12:45,Fast Food,-350,Dining
+2026-02-28,11:30,Parking Fees,-150,Transport
+2026-03-02,10:20,Grocery Store,-1100,Groceries
+2026-03-05,15:40,Gas Station,-1400,Transport
+2026-03-08,21:10,Gaming Store,-1200,Entertainment
+2026-03-12,11:05,Supermarket,-550,Groceries
+2026-03-15,09:10,Monthly Salary,45000,Income
+2026-03-18,10:00,Internet Bill,-900,Utilities
+2026-03-20,13:50,Pharmacy,-300,Health
+2026-03-22,16:30,Clothing Store,-1800,Shopping
+2026-03-25,14:15,Coffee Shop,-220,Dining
+2026-03-28,23:05,Uber Ride,-410,Transport
+2026-04-02,10:45,Grocery Store,-1300,Groceries
+2026-04-05,17:15,Bolt Ride,-310,Transport
+2026-04-08,19:50,Music Streaming,-160,Entertainment
+2026-04-12,12:20,Supermarket,-880,Groceries
+2026-04-15,09:05,Monthly Salary,45000,Income
+2026-04-18,09:30,Gas Bill,-1100,Utilities
+2026-04-20,16:20,Gym Membership,-800,Health
+2026-04-22,13:40,Electronics Store,-4500,Shopping
+2026-04-25,13:10,Fast Food,-290,Dining
+2026-04-28,15:55,Gas Station,-950,Transport
+2026-01-01,00:01,Apartment Rent,-15000,Rent
+2026-02-01,00:01,Apartment Rent,-15000,Rent
+2026-03-01,00:01,Apartment Rent,-15000,Rent
+2026-04-01,00:01,Apartment Rent,-15000,Rent
+2026-01-03,11:40,Grocery Store,-400,Groceries
+2026-01-09,08:20,Public Transport,-550,Transport
+2026-01-14,20:45,Cinema,-300,Entertainment
+2026-01-19,10:15,Supermarket,-200,Groceries
+2026-01-21,15:30,Pharmacy,-150,Health
+2026-01-26,14:00,Electronics Store,-1200,Shopping
+2026-01-29,10:10,Water Bill,-400,Utilities
+2026-02-03,09:20,Grocery Store,-700,Groceries
+2026-02-06,16:10,Gas Station,-1100,Transport
+2026-02-11,21:40,Spotify,-180,Entertainment
+2026-02-14,13:00,Supermarket,-500,Groceries
+2026-02-19,14:50,Dr. Dentist,-2000,Health
+2026-02-23,17:20,Book Store,-600,Shopping
+2026-02-26,12:15,Fast Food,-400,Dining
+2026-02-27,09:50,Parking Fees,-100,Transport
+2026-03-03,11:30,Grocery Store,-900,Groceries
+2026-03-06,18:20,Bolt Ride,-350,Transport
+2026-03-09,19:10,Cinema,-350,Entertainment
+2026-03-13,10:45,Supermarket,-400,Groceries
+2026-03-17,14:00,Pharmacy,-200,Health
+2026-03-21,15:20,Clothing Store,-1200,Shopping
+2026-03-24,19:00,Restaurant,-900,Dining
+2026-03-29,22:30,Uber Ride,-300,Transport
+2026-04-03,09:40,Grocery Store,-600,Groceries
+2026-04-06,15:10,Gas Station,-1300,Transport
+2026-04-09,20:30,Netflix,-300,Entertainment
+2026-04-13,11:20,Supermarket,-750,Groceries
+2026-04-17,13:50,Pharmacy,-100,Health
+2026-04-21,16:40,IKEA,-2000,Shopping
+2026-04-24,12:25,Fast Food,-250,Dining
+2026-04-29,21:10,Uber Ride,-250,Transport
+2026-01-08,17:00,Gym Membership,-800,Health
+2026-01-16,18:30,Restaurant,-500,Dining
+2026-02-08,14:20,Book Store,-400,Shopping
+2026-02-16,19:15,Restaurant,-700,Dining
+2026-03-11,16:30,Gym Membership,-800,Health
+2026-03-16,18:45,Restaurant,-600,Dining
+2026-04-11,17:20,Gym Membership,-800,Health
+2026-04-16,19:00,Restaurant,-400,Dining
+2026-01-02,10:00,Electricity,-800,Utilities
+2026-01-23,10:30,Water,-300,Utilities
+2026-02-04,09:45,Internet,-900,Utilities
+2026-02-21,11:15,Heating,-1200,Utilities
+2026-03-04,10:20,Gas,-1000,Utilities
+2026-03-26,09:50,Phone,-700,Utilities
+2026-04-04,10:10,Electricity,-750,Utilities
+2026-04-26,10:40,Water,-350,Utilities
+2026-01-11,15:30,Amazon,-1500,Shopping
+2026-01-27,16:10,H&M,-1200,Shopping
+2026-02-13,14:50,Apple Store,-3000,Shopping
+2026-02-24,13:20,IKEA,-1800,Shopping
+2026-03-14,15:40,Zalando,-1500,Shopping
+2026-03-27,14:10,Alza,-2500,Shopping
+2026-04-10,16:30,Nike,-2200,Shopping
+2026-04-23,15:00,Zara,-1100,Shopping
