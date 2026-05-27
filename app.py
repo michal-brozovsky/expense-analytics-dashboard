@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # 1. Page Configuration
 st.set_page_config(page_title="Expense Analytics", page_icon="💸", layout="wide")
-st.title("💸 Expense Analytics Dashboard")
+st.title("Expense Analytics Dashboard")
 st.markdown("Automated expense analysis for personal finance tracking.")
 
 # 2. File Uploader
