@@ -76,16 +76,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Sample Dataset
-The repository includes a sample CSV dataset (dummy_expenses.csv) for testing the dashboard.
+## Future Improvements
 
-Future Improvements
-Database Integration: Move from temporary CSV file uploads to a persistent database storage (SQLite / PostgreSQL).
-
-AI-Powered Categorization: Integrate OpenAI API to automatically predict and assign categories based on transaction descriptions.
-
-User Authentication: Implement a secure login system so multiple users can manage their private data.
-
-Automated Alerts & Reports: Add automated email notifications for budget limits and monthly PDF financial summaries.
-
-Advanced Filtering: Add custom date ranges and multi-currency support.
+- Budget tracking
+- Category prediction with AI
+- Export reports to PDF
+- Advanced filtering options
